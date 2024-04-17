@@ -122,4 +122,5 @@
   ('urllib', 'C:\\Python310\\lib\\urllib\\__init__.py', 'PYMODULE'),
   ('urllib.parse', 'C:\\Python310\\lib\\urllib\\parse.py', 'PYMODULE'),
   ('uu', 'C:\\Python310\\lib\\uu.py', 'PYMODULE'),
-  ('zipfile', 'C:\\Python310\\lib\\zipfile.py', 'PYMODULE')])
+  ('zipfile', 'C:\\Python310\\lib\\zipfile.py', 'PYMODULE'),
+  ('상속01', 'C:\\work\\상속01.py', 'PYMODULE')])

@@ -3,7 +3,7 @@
 
 a = Analysis(
     ['BankAccount.py'],
-    pathex=[],
+    pathex=['c:\work\상속01.py'],
     binaries=[],
     datas=[],
     hiddenimports=[],

@@ -1,4 +1,5 @@
 # BankAccount.py
+import 상속01 as c1 
 #은행의 계정을 표현한 클래스 
 class BankAccount:
     def __init__(self, id, name, balance):
@@ -23,3 +24,5 @@ account1.deposit(5000)
 account1.withdraw(3000)
 print(account1)
 
+demo = c1.Person("박문수", "010-222") 
+demo.printInfo()
